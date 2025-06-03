@@ -4,7 +4,7 @@ Proyecto de Sprint 7 en Tripleten
 
 # Análisis de Vehículos Eléctricos en EE.UU.
 
-Esta aplicación interactiva está desarrollada con **Streamlit** y **Plotly Express** para analizar datos de vehículos eléctricos en Estados Unidos. Permite cargar, filtrar y visualizar información relevante sobre modelos, precios, kilometraje y más.
+Esta aplicación interactiva está desarrollada con **Streamlit** y **Plotly Express** para analizar datos de vehículos eléctricos en Estados Unidos. Permite filtrar y visualizar información relevante sobre modelos, precios, kilometraje y más.
 
 ---
 
